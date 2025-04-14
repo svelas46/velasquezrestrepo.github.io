@@ -7,6 +7,7 @@ importance: 1
 category: work
 related_publications: true
 ---
+As a scientist I do not intent only to do basic research but also to contribute to social dissemination and social appropriation of knowledge. I consider local communities are key in biodiversity research; as the most projects are developed in places that are their backyards, and preservation; because they can become custodians of their territory by adopting biodiversity-based economic activities as their main income source. 
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
