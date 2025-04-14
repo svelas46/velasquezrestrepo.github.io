@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href=https://faculty.lsu.edu/brumfieldlab/index.php</a>. 
+subtitle: <a href=https://faculty.lsu.edu/brumfieldlab/index.php</a> Brumfield Lab 
 
 
 profile:
@@ -10,7 +10,7 @@ profile:
   image: IMG_3861.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Ph.D Student - Brunfield lab</p>
+    <p>Ph.D Student - Brumfield lab</p>
     <p>Museum of Natural Sciences</p>
     <p>Louisiana Satate University</p>
 
