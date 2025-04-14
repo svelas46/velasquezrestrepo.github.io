@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href=https://faculty.lsu.edu/brumfieldlab/index.php</a> Brumfield Lab 
+subtitle: <a href=https://faculty.lsu.edu/brumfieldlab/</a> Brumfield Lab 
 
 
 profile:
   align: right
-  image: IMG_3861.jpeg
+  image: IMG_3861.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Ph.D Student - Brumfield lab</p>
-    <p>Museum of Natural Sciences</p>
+    <p>Museum of Natural Science</p>
     <p>Louisiana Satate University</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
