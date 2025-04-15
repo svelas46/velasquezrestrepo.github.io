@@ -9,7 +9,7 @@ toc: false
 ---
 
 <p style="font-size: 1.2em;">
-<a href="https://yourusername.github.io/assets/pdf/CV_SaraVelasquezRpo.pdf" target="_blank">
+<a href="https://velasquezrestrepo.github.io/assets/pdf/CV_SaraVelasquezRpo.pdf" target="_blank">
     <i class="fas fa-file-pdf"></i> View CV (PDF)
   </a>
 </p>
