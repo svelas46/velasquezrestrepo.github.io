@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Onsite and real-time cryptic species identification using the MinION DNA sequencer and its application in a conservation context.
-description: 
-img: assets/img/_V2E9316.jpg
+title: Cryptic species identification 
+description: Onsite and real time identification using the MinION DNA sequencer and its application in a conservation context.
+img: /workspaces/Velasquez-Restrepo/assets/img/_V2E9316.jpg
 importance: 2
 category: work
 giscus_comments: true
@@ -22,7 +22,7 @@ The Neotropics harbors the largest species richness of the planet; however, even
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    Together with a team of 5 students and our PI Juan F. Diaz-Nieto we embarked on a two week trip to the northern Altiplano of Antioquia. The idea was to catch Marmosops handleyi and M. cauce and be able to identify them down to species using non-lethal tissue samples shotgun Nanopore sequencing and a custom built computational pipeline.
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
