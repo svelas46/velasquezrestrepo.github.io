@@ -9,8 +9,6 @@ description: Here you can find a copy of my updated CV.
 toc: false
 ---
 
-<p>Here is a link to my updated CV:</p>
-
 <p style="font-size: 1.2em;">
   <a href="{{ page.cv_pdf }}" target="_blank">
     <i class="fas fa-file-pdf"></i> View CV (PDF)
