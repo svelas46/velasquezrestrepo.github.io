@@ -4,19 +4,12 @@ const ninja = document.querySelector('ninja-keys');
 // add the home and posts menu items
 ninja.data = [{
     id: "nav-about",
-    title: "about",
+    title: "About",
     section: "Navigation",
     handler: () => {
       window.location.href = "/al-folio/";
     },
-  },{id: "nav-blog",
-          title: "blog",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/al-folio/blog/";
-          },
-        },{id: "nav-publications",
+  },{id: "nav-publications",
           title: "Publications",
           description: "publications in reversed chronological order.",
           section: "Navigation",
@@ -30,26 +23,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/al-folio/projects/";
           },
-        },{id: "nav-repositories",
-          title: "repositories",
-          description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/al-folio/repositories/";
-          },
         },{id: "nav-cv",
           title: "CV",
           description: "Here you can find a copy of my updated CV.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/al-folio/cv/";
-          },
-        },{id: "nav-teaching",
-          title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/al-folio/teaching/";
           },
         },{id: "nav-people",
           title: "people",
@@ -58,21 +37,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/al-folio/people/";
           },
-        },{id: "dropdown-bookshelf",
-              title: "bookshelf",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/al-folio/books/";
-              },
-            },{id: "dropdown-blog",
-              title: "blog",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/al-folio/blog/";
-              },
-            },{id: "post-a-post-with-plotly-js",
+        },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
@@ -474,32 +439,18 @@ ninja.data = [{
           window.open("mailto:%73%76%65%6C%61%31%32@%6C%73%75.%65%64%75", "_blank");
         },
       },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
+        id: 'social-orcid',
+        title: 'ORCID',
         section: 'Socials',
         handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
-        },
-      },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/al-folio/feed.xml", "_blank");
+          window.open("https://orcid.org/0000-0002-9072-922X", "_blank");
         },
       },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
-        },
-      },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
+          window.open("https://scholar.google.com/citations?user=Sara Velásquez-Restrepo", "_blank");
         },
       },{
       id: 'light-theme',
