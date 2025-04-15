@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-publications",
           title: "Publications",
-          description: "publications by categories in reversed chronological order.",
+          description: "publications in reversed chronological order.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/al-folio/publications/";
@@ -456,9 +456,9 @@ ninja.data = [{
           description: "Getting to know the &quot;backyard&quot; bids",
           section: "Projects",handler: () => {
               window.location.href = "/al-folio/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-onsite-and-real-time-cryptic-species-identification-using-the-minion-dna-sequencer-and-its-application-in-a-conservation-context",
+          title: 'Onsite and real-time cryptic species identification using the MinION DNA sequencer and its...',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/al-folio/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
