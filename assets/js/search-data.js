@@ -456,9 +456,9 @@ ninja.data = [{
           description: "Getting to know the &quot;backyard&quot; bids",
           section: "Projects",handler: () => {
               window.location.href = "/al-folio/projects/1_project/";
-            },},{id: "projects-onsite-and-real-time-cryptic-species-identification-using-the-minion-dna-sequencer-and-its-application-in-a-conservation-context",
-          title: 'Onsite and real-time cryptic species identification using the MinION DNA sequencer and its...',
-          description: "",
+            },},{id: "projects-cryptic-species-identification",
+          title: 'Cryptic species identification',
+          description: "Onsite and real time identification using the MinION DNA sequencer and its application in a conservation context.",
           section: "Projects",handler: () => {
               window.location.href = "/al-folio/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
