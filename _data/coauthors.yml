@@ -1,34 +1,20 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Diaz-Nieto":
+  - firstname: ["Juan", "F.", "Juan F. Diaz-Nieto"]
+    url: https://www.eafit.edu.co/docentes-investigadores/Paginas/juan-fernando-diaz-nieto.aspx
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Cooper":
+  - firstname: ["Jacob", "C.", "Jacob Cooper"]
+    url: https://jacobccooper.github.io/index.html
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Bates":
+  - firstname: ["John", "M.", "John Bates"]
+    url: https://www.fieldmuseum.org/about/staff/profile/john-bates
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Martinez-Ceron":
+  - firstname: ["Juan Manuel", "Martinez-Ceron"]
+    url: https://scholar.google.com/citations?user=9TAwNq4AAAAJ&hl=es
 
   - firstname: ["Carl Philipp Emanuel", "C. P. E."]
     url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
-
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
-
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
-
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"
