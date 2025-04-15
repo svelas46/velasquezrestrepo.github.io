@@ -30,41 +30,26 @@ The Neotropics harbors the largest species richness of the planet; however, even
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    A male Marmosops handleyi successfully identified to the species level in the field with our species identification pipeline. 
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+We implemented fieldwork to collect small mammals, including rodents, bats, and marsupials, in five localities in the northern extreme of the Cordillera Central of Colombia. DNA samples were sequenced using the MinION device and Flongle flow cells. Shotgun-sequenced data was used to reconstruct the mitochondrial genome of all the samples. In parallel, using a customized computational pipeline, species-level identifications were obtained based on sequencing raw reads (Whole Genome Sequencing). ONT-based identifications were corroborated using traditional morphological characters and phylogenetic analyses.
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm-9 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/20231203_172647.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm-3 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/sara.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+
+This study was able to evaluate different pipelines to reconstruct mitochondrial genomes from non-model organisms, using exclusively ONT reads, benchmarking these protocols on a multi-species dataset. The proposed methodology can be applied by non-expert taxonomists and has the potential to be implemented in real-time, without the need to euthanize the organisms and under field conditions. Therefore, it stands as a relevant tool to help increase the available data for non-model organisms, and the rate at which researchers can characterize life specially in highly biodiverse places as the Neotropics.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/V2E9121.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    This was the individual M. cauce that we trapped and were able to successfully identify to species level using our species identification pipeline.
 </div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
