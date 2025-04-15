@@ -2,7 +2,7 @@
 layout: page
 title: Cryptic species identification 
 description: Onsite and real time identification using the MinION DNA sequencer and its application in a conservation context.
-img: /workspaces/Velasquez-Restrepo/assets/img/_V2E9316.jpg
+img: assets/img/_V2E9316.jpg
 importance: 2
 category: work
 giscus_comments: true
@@ -26,7 +26,7 @@ The Neotropics harbors the largest species richness of the planet; however, even
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="/workspaces/Velasquez-Restrepo/assets/img/_V2E9316.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
