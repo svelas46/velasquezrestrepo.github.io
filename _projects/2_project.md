@@ -1,35 +1,24 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: Onsite and real-time cryptic species identification using the MinION DNA sequencer and its application in a conservation context.
+description: 
+img: assets/img/_V2E9316.jpg
 importance: 2
 category: work
 giscus_comments: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+The Neotropics harbors the largest species richness of the planet; however, even in well-studied groups, there are potentially hundreds of species that lack a formal description, and likewise, many already described taxa are difficult to identify using morphology. Specifically in small mammals, complex morphological diagnoses have been facilitated by the use of molecular data, particularly from mitochondrial sequences, to obtain accurate species identifications. Obtaining mitochondrial markers implies the use of PCR and specific primers, which are largely absent for non-model organisms. Oxford Nanopore Technologies (ONT) is a new alternative for sequencing the entire mitochondrial genome without the need for specific primers. Only a limited number of studies have employed exclusively ONT long-reads to assemble mitochondrial genomes, and few studies have yet evaluated the usefulness of such reads in multiple non-model organisms.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/20231208_083119.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/1707780217902.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/IMG_0959.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
