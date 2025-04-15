@@ -36,13 +36,14 @@ The Neotropics harbors the largest species richness of the planet; however, even
 We implemented fieldwork to collect small mammals, including rodents, bats, and marsupials, in five localities in the northern extreme of the Cordillera Central of Colombia. DNA samples were sequenced using the MinION device and Flongle flow cells. Shotgun-sequenced data was used to reconstruct the mitochondrial genome of all the samples. In parallel, using a customized computational pipeline, species-level identifications were obtained based on sequencing raw reads (Whole Genome Sequencing). ONT-based identifications were corroborated using traditional morphological characters and phylogenetic analyses.
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-9 mt-3 mt-md-0">
+    <div class="col-sm-9 mt-3 mt-md-4">
         {% include figure.liquid path="assets/img/20231203_172647.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-3 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/sara.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-
+ </div>
+ 
 This study was able to evaluate different pipelines to reconstruct mitochondrial genomes from non-model organisms, using exclusively ONT reads, benchmarking these protocols on a multi-species dataset. The proposed methodology can be applied by non-expert taxonomists and has the potential to be implemented in real-time, without the need to euthanize the organisms and under field conditions. Therefore, it stands as a relevant tool to help increase the available data for non-model organisms, and the rate at which researchers can characterize life specially in highly biodiverse places as the Neotropics.
 
 <div class="row">
